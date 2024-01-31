@@ -1,12 +1,24 @@
-## Hi there 👋
+# iOS Study
 
-<!--
+🍎 앨런 Swift 스쿨 30기 3조 스터디 레포
 
-**Here are some ideas to get you started:**
+<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👨‍👨‍👧‍👦 스터디원
+[ddudios]()
+[Muzi]()
+[Brown]()
+[Freddie]()
+[deZ]()
+
+<br/>
+
+## 📚 스터디 방식
+- 매주 화요일 세션이 끝나는 시간에 만나요!!
+- 주차별로 생성된 issue에 대하여 공부하고 코멘트를 달거나 정리한 링크(노션, 블로그)를 달아주세요.
+- 발표 또는 토론시 게더타운에서 대화해요!
+- 참석여부는 해당 주차 issue에 본인의 닉네임 레이블을 달아주세요.
+
+<br/>
+
+## 💩 스터디 규칙
